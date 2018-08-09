@@ -21,5 +21,5 @@
 
     <!-- Strings related to login -->
     <string name="default_timer">00:00</string>
-    <string name="default_score">10/15</string>
+    <string name="default_score">00/15</string>
 </resources>
